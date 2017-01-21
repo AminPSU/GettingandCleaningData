@@ -1,6 +1,6 @@
-## Getting and Cleaning Data - Final Project
+# Getting and Cleaning Data - Final Project
 
-# "run_analysis.R" Overview
+## "run_analysis.R" Overview
 
 This script's goals are as followed step by step.
 
