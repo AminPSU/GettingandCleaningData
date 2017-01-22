@@ -23,3 +23,9 @@ Create a new data frame by finding the mean for each combination of subject and 
 
 <b>Final step:</b></br>
 Write the new tidy set into a text file called TidyDataset.txt.
+
+# Dependencies 
+This script benefits two packages including dplyr and tidyr in order to deal with datasets.
+
+# How to run
+All the requred packages will be loaded through the script. you just need to place the file in your current working directory.
